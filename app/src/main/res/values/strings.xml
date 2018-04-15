@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Basic Android Mozilla</string>
+    <string name="layouting">layouting</string>
+    <string name="passing_data">passing data</string>
+    <string name="passing_object">passing object</string>
+    <string name="result">getting result activity</string>
+    <string name="call">dial number call</string>
+    <string name="email">send email client</string>
+    <string name="nerima_data">Nerima Data</string>
+    <string name="nama">Fiqri Hafzain</string>
+    <string name="umur">19</string>
+    <string name="nerima_object">Nerima Object</string>
+    <string name="hasil_balik">hasil balik</string>
+</resources>
