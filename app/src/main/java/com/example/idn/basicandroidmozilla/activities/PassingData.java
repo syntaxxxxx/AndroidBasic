@@ -9,7 +9,7 @@ import com.example.idn.basicandroidmozilla.R;
 
 public class PassingData extends AppCompatActivity {
 
-    //TODO 1 buat vaiable untuk nampung data
+    //TODO 1 buat variable untuk nampung data
     public static final String EXTRA_NAMA = "extra_nama";
     public static final String EXTRA_UMUR = "extra_umur";
 
